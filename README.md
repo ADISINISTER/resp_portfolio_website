@@ -1,54 +1,18 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/drew-hays-personal-portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/drew-hays-personal-portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/drew-hays-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/lzledoZLFBQ?style=social)](https://youtu.be/lzledoZLFBQ)
+# My Responsive Portfolio Website
 
-  <br />
-  <br />
+## Project Overview
 
-  <h2 align="center">Drew hays - Personal Portfolio Website</h2>
+I am excited to share my latest project: a responsive portfolio website. This website showcases my skills, projects, and professional experiences in a clean, modern, and mobile-friendly design.
 
-  Drew hays is a fully responsive personal portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+## Screenshots
 
-  <a href="https://codewithsadee.github.io/drew-hays-personal-portfolio/"><strong>➥ Live Demo</strong></a>
+Here are some screenshots of the responsive portfolio website:
 
-</div>
+![Homepage](assets/homepage.jpg)
+*Caption: Homepage of the portfolio website.*
 
-<br />
+![Projects Section](assets/projects-section.jpg)
+*Caption: Projects section showcasing my work.*
 
-### Demo Screeshots
-
-![Drew hays Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **Drew hays** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/drew-hays-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/drew-hays-personal-portfolio.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+![Contact Form](assets/contact-form.jpg)
+*Caption: Contact form for easy communication.*
