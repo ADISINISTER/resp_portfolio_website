@@ -8,7 +8,7 @@ I am excited to share my latest project: a responsive portfolio website. This we
 
 Here are some screenshots of the responsive portfolio website:
 
-![Homepage](assets/Screenshot 2024-07-19 054214.png)
+![Homepage](assets/Screenshot_2024-07-19_054214.png)
 *Caption: Homepage of the portfolio website.*
 
 ![Projects Section](assets/projects-section.jpg)
