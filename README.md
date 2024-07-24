@@ -9,10 +9,10 @@ I am excited to share my latest project: a responsive portfolio website. This we
 Here are some screenshots of the responsive portfolio website:
 
 ![Homepage](https://github.com/ADISINISTER/resp_portfolio_website/blob/main/assets/images/1.png)
-*Caption: Homepage of the portfolio website.*
+*Homepage of the portfolio website.*
 
 ![Projects Section](https://github.com/ADISINISTER/resp_portfolio_website/blob/main/assets/images/3.png)
-*Caption: Projects section showcasing my work.*
+*Projects section showcasing my work.*
 
 ![Contact Form](https://github.com/ADISINISTER/resp_portfolio_website/blob/main/assets/images/4.png)
-*Caption: Contact form for easy communication.*
+*Contact form for easy communication.*
